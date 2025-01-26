@@ -1010,7 +1010,7 @@
   <project path="kernel/tests" name="kernel/tests" groups="vts,pdk" remote="aosp" />
   <project path="libcore" name="AfterlifeOS/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
-  <project path="packages/apps/AfterHome" name="AfterlifeOS/packages_apps_AfterHome" groups="pdk-fs,sysui-studio" />
+  <project path="packages/apps/AfterHome" name="wulan17/packages_apps_AfterHome" groups="pdk-fs,sysui-studio" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Camera2" name="AfterlifeOS/packages_apps_Camera2" groups="pdk-fs" />
