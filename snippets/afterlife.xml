@@ -7,7 +7,7 @@
   <project path="hardware/afterlife/dolby" name="AfterlifeOS/hardware_afterlife_dolby" />
   <project path="hardware/afterlife/interfaces" name="AfterlifeOS/hardware_afterlife_interfaces" />
   <project path="hardware/xiaomi" name="AfterlifeOS/hardware_xiaomi" revision="14" />
-  <project path="manifest" name="AfterlifeOS/android_manifest" />
+  <project path="manifest" name="XeroMz69/android_manifest" />
   <project path="packages/apps/AfterLab" name="AfterlifeOS/packages_apps_AfterLab" />
   <project path="packages/apps/ExactCalculator" name="AfterlifeOS/packages_apps_ExactCalculator" />
   <project path="packages/apps/GameSpace" name="AfterlifeOS/packages_apps_GameSpace" />
@@ -18,7 +18,7 @@
   <project path="packages/services/OmnuJaws" name="AfterlifeOS/packages_services_OmniJaws" />
   <project path="prebuilts/exthm-sdk" name="AfterlifeOS/prebuilts_exthmui-sdk" remote="gitea" />
   <project path="vendor/afterlife" name="AfterlifeOS/vendor_afterlife" />
-  <project path="vendor/afterlife/signed" name="AfterlifeOS/vendor_signed" />
+  <project path="vendor/afterlife/signed" name="XeroMz69/vendor_signed" />
   <project path="vendor/afterlife-ui" name="AfterlifeOS/vendor_AfterUI" />
   <project path="vendor/dolby/afterlife" name="AfterlifeOS/vendor_dolby_afterlife" />
   <project path="vendor/gms" name="AfterlifeOS/vendor_gms" remote="gitea" clone-depth="1" revision="14" />
